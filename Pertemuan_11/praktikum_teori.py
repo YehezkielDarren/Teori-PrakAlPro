@@ -36,11 +36,11 @@
 # a["nicho"]=43
 # print(a)
 
-a=dict()
-for i in range(3):
-    var=dict()
-    var["nama"]=input("masukkan nama anda jingg ")
-    var["no_hp"]=int(input("masukkan nomor telpon anda jingg "))
-    nim=int(input("silahkan masukkan nim luu "))
-    a[nim]=var
-print(a)
+# a=dict()
+# for i in range(3):
+#     var=dict()
+#     var["nama"]=input("masukkan nama anda jingg ")
+#     var["no_hp"]=int(input("masukkan nomor telpon anda jingg "))
+#     nim=int(input("silahkan masukkan nim luu "))
+#     a[nim]=var
+# print(a)
