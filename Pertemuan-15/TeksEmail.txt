@@ -1,0 +1,25 @@
+Berikut adalah daftar email dan nama pengguna dari mailing list:
+anton@mail.com dimiliki oleh antonius
+budi@gmail.co.id dimiliki oleh budi anwari
+slamet@getnada.com dimiliki oleh slamet slumut
+matahari@tokopedia.com dimiliki oleh toko matahari
+john.doe123@gmail.com dimiliki oleh john doe
+jane.smith456@yahoo.com
+mike.johnson789@outlook.com
+emma.watson111@gmail.com
+james.bond222@yahoo.com
+sophia.loren333@outlook.com
+william.shakespeare444@gmail.com
+marilyn.monroe555@yahoo.com
+albert.einstein666@outlook.com
+leonardo.da.vinci777@gmail.com
+michelangelo.buonarroti888@yahoo.com
+galileo.galilei999@outlook.com
+isaac.newton1111@gmail.com
+charles.darwin2222@yahoo.com
+nikola.tesla3333@outlook.com
+thomas.edison4444@gmail.com
+benjamin.franklin5555@yahoo.com
+george.washington6666@outlook.com
+abraham.lincoln7777@gmail.com
+martin.luther.king8888@yahoo.com
