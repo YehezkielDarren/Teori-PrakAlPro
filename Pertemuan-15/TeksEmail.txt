@@ -13,13 +13,3 @@ william.shakespeare444@gmail.com
 marilyn.monroe555@yahoo.com
 albert.einstein666@outlook.com
 leonardo.da.vinci777@gmail.com
-michelangelo.buonarroti888@yahoo.com
-galileo.galilei999@outlook.com
-isaac.newton1111@gmail.com
-charles.darwin2222@yahoo.com
-nikola.tesla3333@outlook.com
-thomas.edison4444@gmail.com
-benjamin.franklin5555@yahoo.com
-george.washington6666@outlook.com
-abraham.lincoln7777@gmail.com
-martin.luther.king8888@yahoo.com
